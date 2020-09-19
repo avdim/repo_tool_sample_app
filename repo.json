@@ -9,7 +9,7 @@
     {
       "dir": "lib2_repo",
       "gitUri": "git@github.com:avdim/repo_tool_sample_lib2.git",
-      "ref": "new_tag4"
+      "ref": "v2.0"
     }
   ]
 }
